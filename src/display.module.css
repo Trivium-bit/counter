@@ -1,0 +1,28 @@
+.display {
+    padding-top: 10px;
+    margin: 10px auto;
+    border: 1px solid rgb(179, 0, 0);
+    border-radius: 5px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 80px;
+    width: 180px;
+    background-color: moccasin;
+    color: darkblue;
+    }
+
+    .redDisplay {
+        color: crimson;
+        padding-top: 10px;
+        margin: 10px auto;
+        border: 1px solid rgb(179, 0, 0);
+        border-radius: 5px;
+        text-align: center;
+        font-size: 60px;
+        font-family: 'Courier New', Courier, monospace;
+        height: 80px;
+        width: 180px;
+        background-color: moccasin;
+        color: red;
+        }
